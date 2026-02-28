@@ -1,1 +1,1 @@
-omprehensive analytics platform for Maharashtra State Power Generation Company with 7 fully integrated dashboards covering real-time generation, outage management, financial analysis, merit order dispatch, profitability, and peak/off-peak performance.
+Comprehensive analytics platform for Power Generation Company with 7 fully integrated dashboards covering real-time generation, outage management, financial analysis, merit order dispatch, profitability, and peak/off-peak performance.
